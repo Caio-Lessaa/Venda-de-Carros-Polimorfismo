@@ -14,7 +14,7 @@ Herança e classes abstratas
 Polimorfismo (sobreposição e sobrecarga)
 ## Como Usar
 1. Clone este repositório:  
-   `git clone https://github.com/Caio-Lessaa/SistemaDeVendaDeCarros.git`
+   `git clone [https://github.com/Caio-Lessaa/SistemaDeVendaDeCarros.git](https://github.com/Caio-Lessaa/Venda-de-Carros-Polimorfismo.git)`
 2. Compile e execute o programa usando um IDE Java ou via terminal:
    - `javac Main.java`
    - `java Main`
